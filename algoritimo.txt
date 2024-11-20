@@ -1,0 +1,14 @@
+objetivo
+
+1 - input
+    - perguntar ao usuario o tamanho e o tipo de senha
+    - se deve conter (letras, numeros, caracteres especiais)
+
+2 - processamento
+    - Gerar a senha com base no input
+
+3- output
+    - mostrar o resultado no terminal ou gerar um txt. com a senha 
+
+----------------
+
