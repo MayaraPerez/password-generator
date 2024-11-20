@@ -25,9 +25,9 @@ Interface interativa: O programa guia o usuário com prompts no terminal.
 Como Usar: 
 
 ### Installing dependencies:
-After cloning, enter the project directory and install the necessary dependencies.
-Install Go dependencies: If you don't have Go installed
-Download the project dependencies: Inside the project directory, run:
+Após a clonagem, entre no diretório do projeto e instale as dependências necessárias.
+Instale as dependências do Go: Se você não tiver o Go instalado
+Baixe as dependências do projeto: Dentro do diretório do projeto, execute:
 
 - [Go](https://go.dev/doc/install) 1.20
 
